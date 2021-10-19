@@ -1,0 +1,18 @@
+Neste documentos estão listados comandos para serem utilizados no terminal dow Windows
+
+"cd /" avança um nivel na navegação
+"cd .." retrocede um nível na navegação
+"dir" ou "ls"  para lista diretórios
+"mkdir" criar pasta
+"clear" ou "cls" para limpar terminal
+"echo " printa na tela
+ "echo nomeQUeVCquer" > nomeQueVcQuer.Extensão  Criar arquivo
+"del" deletar arquivos
+"rmdir" deletar repositório com todos os arquivos
+
+ATALHOS
+
+ctrl + l  para limpar tela, mesmo que clear
+tab autocompleta pasta que já existe
+	
+ 
